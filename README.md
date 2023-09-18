@@ -1,2 +1,4 @@
 # Squid-Game
-A squid game - Red Light Green light
+A game played in popular series squid game - Red light Green Light
+
+<a href="https://momolight.netlify.app/">Play game</a>
